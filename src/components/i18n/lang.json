@@ -1,0 +1,34 @@
+{
+	"en": {
+		"gettingLocation": "Getting your location...",
+		"lwTitle": "Weather in your position",
+		"lwToggleDescription" : "choose between imperial and metric unit",
+		"lwPresentLabel": "weather at the moment",
+		"lwWeeklyLabel": "daily weather on the following week",
+		"lwHourlyLabel": "weather on the following hours",
+
+		"wwTitle": "Weather round the world",
+		"wwToggleDescription" : "choose between imperial and metric unit",
+		"wwWeatherIn": "Today the weather in",
+		"wwMax": "maximum",
+		"wwMin": "at least",
+
+		"days": "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+	},
+	"hu": {
+		"gettingLocation": "Helymeghatározás folyamatban...",
+		"lwTitle": "Időjárás az ön pozíciójában",
+		"lwToggleDescription" : "válasszon amerikai és metrikus mértékegység között",
+		"lwPresentLabel": "időjárás jelenleg",
+		"lwWeeklyLabel": "időjárás a következő napokban",
+		"lwHourlyLabel": "időjárás a következő órákban",
+
+		"wwTitle": "Időjárás a föld körül",
+		"wwToggleDescription" : "válasszon amerikai és metrikus mértékegység között",
+		"wwWeatherIn": "Ma az időjárás az alábbi városban",
+		"wwMax": "maximum",
+		"wwMin": "legalább",
+
+		"days": "Vasárnap, Hétfő, Kedd, Szerda, Csütörtök, Péntek, Szombat"
+	}
+}
